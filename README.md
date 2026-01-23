@@ -17,9 +17,9 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=wad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=wad&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=JeaAP&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=JeaAP&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeaAP&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=wad&icon=0&color=0)](https://visitcount.itsvg.in)
